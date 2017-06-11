@@ -15,6 +15,21 @@ a {
   font-size: 16px;
 }
 
+h3 {
+  color: gray;
+  font-weight: normal;
+}
+
+.h2fontstyle {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
 .align {
   text-align: center;
+}
+
+.leftalign {
+  text-align: right;
 }
